@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently Learning about SQL , Excel , PowerBI<br>
+Aspiring Data Analyst using tools Excel, SQL, PowerBI <br>
 
 
 ## 🌐 Socials:
